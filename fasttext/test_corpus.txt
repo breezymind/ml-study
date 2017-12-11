@@ -1,0 +1,29 @@
+__label__P	굳_VA ㅋ_UNKNOWN
+__label__N	GDNTOPCLASSINTHECLUB_SL
+__label__N	뭐_NP 야_VCP+EF 이_MM 평점_NNG 들_XSN 은_JX ._SF ..._SY 나쁘_VA 진_EC+JX 않_VX 지만_EC 10_SN 점_NNB 짜리_NNB 는_JX 더더욱_MAG 아니_VCN 잖아_EC
+__label__N	지루_XR 하_XSA 지_EC 는_JX 않_VX 은데_EC 완전_NNG 막장_NNG 임_VCP+ETN ._SF .._SY 돈_NNG 주_VV 고_EC 보_VX 기_ETN 에_JKB 는_JX ._SF ..._SY
+__label__N	3_SN D_SL 만_JX 아니_VCN 었_EP 어도_EC 별_MM 다섯_NR 개_NNBC 줬_VV+EP 을_ETM 텐데_NNB+VCP+EF ._SF ._SY 왜_MAG 3_SN D_SL 로_JKB 나와서_VV+EC 제_MM 심기_NNG 를_JKO 불편_NNG 하_XSV 게_EC 하_VX 죠_EF ?_SF ?_SF
+__label__P	음악_NNG 이_JKS 주_NNG 가_JKS 된_VV+ETM ,_SC 최고_NNG 의_JKG 음악_NNG 영화_NNG
+__label__N	진정_XR 한_XSA+ETM 쓰레기_NNG
+__label__N	마치_MAG 미국_NNP 애니_NNP 에서_JKB 튀어나온_VV+ETM 듯_NNB 한_XSA+ETM 창의_NNG 력_XSN 없_VA 는_ETM 로봇_NNG 디자인_NNG 부터_JX 가_JKS ,_SC 고개_NNG 를_JKO 젖_VV 게_EC 한다_VX+EC
+__label__N	갈수록_MAG 개판_NNG 되_XSV+EC 가_VX 는_ETM 중국_NNP 영화_NNG 유치_NNG 하_XSV 고_EC 내용_NNG 없_VA 음_ETN 폼_NNG 잡_VV 다_EC 끝_NNG 남_NNG 말_NNG 도_JX 안_MAG 되_VV 는_ETM 무기_NNG 에_JKB 유치_XR 한_XSA+ETM cg_SL 남무_NNG 아_IC 그립_VA 다_EC 동사서독_NNP 같_VA 은_ETM 영화_NNG 가_JKS 이건_NP+JX 3_SN 류_XSN 아류_NNG 작_NNG 이_VCP 다_EC
+__label__P	이별_NNG 의_JKG 아픔_NNG 뒤_NNG 에_JKB 찾아오_VV 는_ETM 새로운_VA+ETM 인연_NNG 의_JKG 기쁨_NNG But_SL ,_SC 모든_MM 사람_NNG 이_JKS 그렇_VA 지_EC 는_JX 않_VX 네_EF ._SF ._SF
+__label__P	괜찮_VA 네요_EF 오랜만_NNG 포켓몬스터_NNP 잼_VV+ETN 밌어요_UNKNOWN
+__label__N	한국_NNP 독립_NNG 영화_NNG 의_JKG 한계_NNG 그렇게_MAG 아버지_NNG 가_JKS 된다_VV+EF 와_JC 비교_NNG 됨_XSV+ETN
+__label__P	청춘_NNG 은_JX 아름답_VA 다_EF 그_IC 아름다움_VA+ETN 은_JX 이성_NNG 을_JKO 흔들_VV 어_EC 놓_VX 는다_EF ._SF 찰나_NNG 의_JKG 아름다움_VA+ETN 을_JKO 잘_MAG 포착_NNG 한_XSA+ETM 섬세_XR 하_XSA 고_EC 아름다운_VA+ETM 수채화_NNG 같_VA 은_ETM 퀴어_NNP 영화_NNG 이_VCP 다_EF ._SF
+__label__P	눈_NNG 에_JKB 보이_VV 는_ETM 반전_NNG 이_VCP 었_EP 지만_EC 영화_NNG 의_JKG 흡인력_NNG 은_JX 사라지_VV 지_EC 않_VX 았_EP 다_EF ._SF
+__label__N	"""_SY 스토리_NNG ,_SC 연출_NNG ,_SC 연기_NNG ,_SC 비주얼_NNG 등_NNB 영화_NNG 의_JKG 기본_NNG 조_NR 차_NNB 안_MAG 된_VV+ETM 영화_NNG 에_JKB 무슨_MM 평_NNG 을_JKO 해_VV+EF ._SF 이런_MM 영화_NNG 찍_VV 고_EC 도_JX 김문옥_NNP 감독_NNG 은_JX """"_SY 내_NP 가_JKS 영화_NNG 경력_NNG 이_JKS 몇_MM OO_SL 인데_VCP+EC 조무래기_NNG 들_XSN 이_JKS 내_NP+JKG 영화_NNG 를_JKO 평론_NNG 해_XSV+EF ?_SF """"_SY 같_VA 은_ETM 마인드_NNG 에_JKB 빠져_VV+EC 있_VX 겠_EP 지_EF ?_SF """_SY
+__label__P	소위_MAJ ㅈ_NNG 문가_NNG 라는_VCP+ETM 평점_NNG 은_JX 뭐_NP 냐_VCP+EF ?_SF
+__label__P	최고_NNG !_SF !!!!!!!!!!!!!!!_SY
+__label__N	발연기_NNG 도저히_MAG 못_MAG 보_VV 겠_EP 다_EF 진짜_MAG 이렇게_MAG 연기_NNG 를_JKO 못_MAG 할_VV+ETM 거_NNB 라곤_VCP+EC+ETM 상상_NNG 도_JX 못_MAG 했_VV+EP 네_EF
+__label__P	나이스_NNG
+__label__N	별_MM 재미_NNG 도_JX 없_VA 는_ETM 거_NNB 우려먹_VV 어_EF ._SF ..._SY 챔프_NNP 에서_JKB 방송_NNG 몇_MM 번_NNBC 했_VV+EP 더라_EF ?_SF ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ_UNKNOWN
+__label__P	'_SY 13_SN 일_NNBC 의_JKG 금요일_NNG ',_SY '_SY 나이트메어_NNP '_SY 시리즈_NNG 와_JKB 함께_MAG 가장_MAG 많_VA 은_ETM 시리즈_NNG 를_JKO 양산_NNG 해냈_XSV+EC+VX+EP 던_ETM 헬_NNP 레이저_NNG 시리즈_NNG 의_JKG 첫_MM 편_NNB ._SF 작가_NNG 의_JKG 상상력_NNP 이_JKS 돋보이_VV 는_ETM 작품_NNG 이_VCP 며_EC ,_SC 갈고리_NNG 로_JKB 사_VV 지_EC 찢_VV 는_ETM 고어_NNG 씬_NNP 은_JX 지금_MAG 보_VV 더라도_EC 상당히_MAG 잔인_XR 하_XSA 고_EC 충격_NNG 적_XSN 이_VCP 다_EF ._SF
+__label__N	나름_NNB 교훈_NNG 돋_VV 기_ETN 는_JX 하_VV 지만_EC 어쩔_VV+ETM 수_NNB 없이_MAG 저_MM 평점_NNG 받_VV 을_ETM 수_NNB 밖에_JX 없_VA 는_ETM 저질_NNG 섹스_NNG 코미디_NNG
+__label__P	꽤_MAG 재밌_VA 게_EC 본_VX+ETM 영화_NNG 였_VCP+EP 다_EF !_SF
+__label__P	민주_NNG 화_XSN 시대_NNG 의_JKG 억눌린_VV+ETM 영혼_NNG 의_JKG 관음_NNG 적_XSN 인_VCP+ETM 욕구_NNG 분출_NNG ._SY 인상_NNG 적_XSN 이_VCP 다_EF ._SF
+__label__N	일본_NNP 천황_NNG 이_JKS 미국_NNP 으로부터_JKB 받_VV 은_ETM 면죄부_NNG 의_JKG 긴박_XR 한_XSA+ETM 과정_NNG 을_JKO 루즈_XR 하_XSA 고_EC 지저분_XR 하_XSA 게_EC 늘어놓_VV 았_EP 다_EF ._SF
+__label__P	괜히_MAG 나올_VV+ETM 때_NNG 어미_NNG 알_VV+ETM 건_NNB+JX 드려서_VV+EC 긁_VV 어_EC 부스_NNG 름_UNKNOWN 만들_VV 었_EP 다는_ETM 분_NNB 이_JKS 저_MM 아래_NNG 보이_VV 던데_EC ,_SC 영화_NNG 제대로_MAG 안_MAG 봤_VV+EP 네_EF ._SF 알_NNG 이_JKS 딱_MAG 까지_VV 면서_EC 새끼_NNG 가_JKS 나오_VV 려_EC 했_VX+EP 음_ETN ._SF 그냥_MAG 가_VV 면_EC 그_MM 놈_NNB 한테_JKB 당했_VV+EP 을_ETM 것_NNB 임_VCP+ETN ._SF 한_MM 놈_NNB ,_SC 두_MM 놈_NNB 막_MAJ 나올_VV+ETM 게_NNB+JKS 뻔했_VA+EP 으니_EC 작살낼_VV+ETM 수_NNB 밖_NNG 에_JKB 없_VA 었_EP 다_EF ._SF
+__label__P	50_SN 번_NNBC 은_JX 봤_VV+EP 네요_EF 어쩜_IC 이렇게_MAG 잘_MAG 만들_VV 었_EP 을까_EC
+__label__P	실화_NNG 라서_VCP+EC 더욱_MAG 아름답_VA 고_EC 찡_MAG 하_VV 네요_EF ._SF .._SY 많이_MAG 울_VV 었_EP 어요_EF 벌써_MAG 4_SN 년_NNB 이_VCP 란_ETM 시간_NNG 이_JKS 흘렀_VV+EP 네요_EC
+__label__N	이건_NP+JX 뭐_IC 노_NNP 답_NNG 이_JKS 네_MM 80_SN ~_SY 90_SN 년_NNB 대_XPN 어린이_NNG 영화_NNG 좀_MAG 보_VV 고_EC 본받_VV 아라_EF !_SF
